@@ -1,0 +1,5 @@
+.*
+!.gitignore
+resources/_g
+themes/
+public/
